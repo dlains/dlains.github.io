@@ -1,2 +1,2 @@
-# dlains.github.io
+# David Lains
 Personal site
